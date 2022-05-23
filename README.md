@@ -16,3 +16,7 @@ These are a series of programs that may be asked during an interview:
 # Reverse
     - This will show your string and number input reversed. First string then number. Using slicing
     - 5.22.22 
+
+# Fibonacci
+    - This will take your inputted number and loop it in a fibonacci sequence your inputted amount of times, using a for loop
+    - 5.23.22
